@@ -1,0 +1,16 @@
+# IntelliJ IDEA files
+/.idea/
+
+# Kotlin output directories
+/out/
+/build/*
+
+# Gradle files
+.gradle/
+
+# Maven files
+/target/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db

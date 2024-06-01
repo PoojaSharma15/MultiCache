@@ -1,7 +1,7 @@
 import cache.MyLinkedHashMap
 import policy.EvictPolicy
 
-fun main(args: Array<String>) {
+fun main() {
     println("Hello to Cache World")
 
     // Test case 1: LRU eviction policy
